@@ -40,4 +40,4 @@ In-depth Exploration:
    - Month over Month count of orders for different payment types
    - Count of orders based on the no. of payment installments
 
-📊 Let's dive into the data and see what insights we can gather. 💻 Happy analyzing! 🤓
+Let's dive into the data and see what insights we can gather. Happy analyzing!
